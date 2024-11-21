@@ -1,0 +1,21 @@
+{
+  "name": "Gerenuk",
+  "symbol": "GNUK",
+  "description": "Gerenuk Coin (GNUK) is a playful and innovative memecoin inspired by the elegant and quirky gerenuk, an antelope known for its distinctive long neck and ability to reach great heights. Just like its animal namesake, GNUK is designed to stand out in the crowded crypto savanna, aiming to stretch the boundaries of fun and financial potential.",
+  "image": "https://imgur.com/a/hEuinxg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://imgur.com/a/hEuinxg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
